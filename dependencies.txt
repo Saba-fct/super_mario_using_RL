@@ -1,0 +1,12 @@
+libraries needed to be installed:
+In documents on trail line of files erase and type'cmd'
+then 'myenv\scripts\activate
+then 'pip install ---==version---
+e.g. gym == 0.20
+gym_super_mario_bros==7.3.0
+stable_basline3 (pip install stable_basline3[mpi])
+nes_py (pip install nes_py)
+matplotlib
+numpy 
+OS
+time
